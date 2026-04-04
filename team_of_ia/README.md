@@ -38,16 +38,6 @@ The platform follows a modern decoupled architecture:
 
 ---
 
-## 📸 Screenshots
-
-![Dashboard Interface](./docs/dashboard_preview.png)
-Dashboard overview
-
-![Map View](./docs/map_view.png)
-Map and zone monitoring interface
-
----
-
 ## 🛠️ Installation Guide
 
 ### 1. Prerequisites
@@ -125,9 +115,10 @@ npm run dev
 
 | Role | Email | Password |
 | :--- | :--- | :--- |
-| **Administrator** | `admin@urba-drain-agadir.ma` | `password123` |
-| **Technician** | `technicien@urba-drain-agadir.ma` | `password123` |
-| **Lecturer** | `lecteur@urba-drain-agadir.ma` | `password123` |
+| **Administrateur** | `admin@urba-drain-agadir.ma` | `admin123` |
+| **Technicien** | `technicien@urba-drain-agadir.ma` | `technicien123` |
+| **Lecteur** | `lecteur@urba-drain-agadir.ma` | `lecteur123` |
+| **Operateur** | `operateur@urba-drain-agadir.ma` | `operateur123` |
 
 ---
 
