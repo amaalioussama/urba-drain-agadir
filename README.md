@@ -10,6 +10,21 @@ Application full-stack pour la surveillance et la gestion du réseau de drainage
 - Recevoir et traiter des alertes automatiques
 - Visualiser l'état général du système sur un dashboard
 
+## 👥 Membres de l'équipe
+
+- ALLOUCH Walid
+- AMAALI Oussama
+- AMAZIGH Abdelmottaleb
+- BELAAJIN Abdelaali
+- BELHADJ Chadi
+- BENELMALIH Mohamed
+- ALLALI Sohaib
+- AMRO Khalid
+- BABA Hicham
+- BAHANNI Amira
+- BELCADI Chaimae
+- BEN DAOUD Lounis
+
 ## Stack Technique
 
 ### Backend
