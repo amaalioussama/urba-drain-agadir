@@ -200,3 +200,6 @@ This project was developed as part of the **Souss-Massa Resilience Prototype 202
 ## 📜 License
 
 This project is licensed under the **MIT License**. See the `LICENSE` file for details.
+
+## 🎥 Démo vidéo
+[Voir la vidéo de démonstration](https://drive.google.com/file/d/1HP1QkuV06eJoPk_QwjkY2V00aiL1pLlz/view?usp=sharing)

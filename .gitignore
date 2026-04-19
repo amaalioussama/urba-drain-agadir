@@ -1,0 +1,18 @@
+# Node modules
+**/node_modules/
+
+# Python venv
+**/venv/
+
+# Build files
+**/dist/
+
+# System files
+.DS_Store
+**/__pycache__/
+*.pyc
+*.pyo
+.env
+node_modules
+*.mp4
+*.mov
