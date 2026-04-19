@@ -40,10 +40,10 @@ The platform follows a modern decoupled architecture:
 
 ## 📸 Screenshots
 
-![Dashboard Interface](./docs/dashboard_preview.png)
+![Dashboard Interface](./docs/Dashboard.png)
 Dashboard overview
 
-![Map View](./docs/map_view.png)
+![Map View](./docs/Map.png)
 Map and zone monitoring interface
 
 ---
